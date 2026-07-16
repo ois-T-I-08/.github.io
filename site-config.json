@@ -1,0 +1,17 @@
+{
+  "siteName": "ois-T-I-08",
+  "developerName": "ois-T-I-08",
+  "description": "使う人の日常を少し整える、実用的なモバイルアプリを個人開発しています。",
+  "baseUrl": "https://ois-t-i-08.github.io/.github.io/",
+  "githubUrl": "https://github.com/ois-T-I-08",
+  "contactEmail": "ois.t.i.08@gmail.com",
+  "projects": [
+    {
+      "name": "Genshin Builder",
+      "repositoryName": "genshin-builder-mobile",
+      "status": "開発中",
+      "platforms": ["Android（予定）"],
+      "technologies": ["Flutter", "Dart"]
+    }
+  ]
+}

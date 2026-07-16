@@ -1,0 +1,18 @@
+{
+  "name": "ois-T-I-08 — Independent App Developer",
+  "short_name": "ois-T-I-08",
+  "description": "個人開発者 ois-T-I-08 の公式サイト。アプリ、開発情報、サポート情報を掲載しています。",
+  "lang": "ja",
+  "start_url": "/.github.io/",
+  "scope": "/.github.io/",
+  "display": "browser",
+  "background_color": "#f7f8fb",
+  "theme_color": "#173a5e",
+  "icons": [
+    {
+      "src": "/.github.io/favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ois-t-i-08.github.io/.github.io/sitemap.xml
